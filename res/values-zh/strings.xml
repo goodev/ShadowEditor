@@ -1,0 +1,20 @@
+<resources>
+
+    <string name="app_name">文字阴影编辑器</string>
+    <string name="hello_world">你好！</string>
+    <string name="menu_settings">设置</string>
+    <string name="title_activity_main">文字阴影编辑器</string>
+    <string name="input_error">输入的内容错误，请检查！</string>
+    <string name="help">颜色值以#开头 #AARRGGBB，Dx dy radius 输入数字（可以带小数点）,文字大小的计算单位为 SP</string>
+    <string name="set">"设置"</string>
+    <string name="text_size">文字大小</string>
+    <string name="shadow_color">阴影颜色</string>
+    <string name="shadow_radius">阴影半径( 3.1 )</string>
+    <string name="shadow_dy">阴影Dy( 2.6 )</string>
+    <string name="shadow_dx">阴影Dx( 2.5 )</string>
+    <string name="the_textbackground_color">文字背景颜色</string>
+    <string name="the_text_color">文字颜色</string>
+    <string name="input_text_to_display">显示的文字内容</string>
+    <string name="default_text">你好！</string>
+
+</resources>
